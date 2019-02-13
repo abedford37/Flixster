@@ -21,9 +21,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, http://recordit.co/lygeS0BSli. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="http://recordit.co/lygeS0BSli" width=250><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/lygeS0BSli.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1550094037&Signature=kRT2vyw0AwsOqDvQMbzz7CEJJSc%3D" width=250><br>
 
 ### Notes
 I was a bit confused on the API logic, but I figured it out. 
