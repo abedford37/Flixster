@@ -20,6 +20,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 The API URL wasn't on the page that was linked in the Assignment page, so I used the one in the walkthrough video.
+
 ---
 
 ## Flix Part 1
