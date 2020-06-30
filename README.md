@@ -2,6 +2,26 @@
 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Flix Part 1
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
+
+#### BONUS
+- [x] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
+
+### App Walkthough GIF
+<img src="https://imgur.com/idX0eny" width=250><br>
+
+### Notes
+I was a bit confused on the API logic, but I figured it out. 
+
+
 ## Flix Part 2
 
 ### User Stories
@@ -21,23 +41,3 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ### Notes
 The API URL wasn't on the page that was linked in the Assignment page, so I used the one in the walkthrough video.
 
----
-
-## Flix Part 1
-
-### User Stories
-
-#### REQUIRED (10pts)
-- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [x] (3pts) User can view the movie poster image for each movie.
-
-#### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
-
-### App Walkthough GIF
-<img src="https://im2.ezgif.com/tmp/ezgif-2-2fc6eff812fa.gif" width=250><br>
-
-### Notes
-I was a bit confused on the API logic, but I figured it out. 
