@@ -32,12 +32,12 @@ I was a bit confused on the API logic, but I figured it out.
 
 #### BONUS
 - [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [x] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-eb32d15eb369.gif" width=250><br>
+<img src="https://imgur.com/0roktJg.gif" width=250><br>
 
 ### Notes
-The API URL wasn't on the page that was linked in the Assignment page, so I used the one in the walkthrough video.
+The Trailer URL Request code was challenging to understand at first, but I figured it out.
 
